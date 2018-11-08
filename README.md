@@ -10,10 +10,6 @@
         user.name = "大头鬼";
 ```
 
-![b93476898aba40da17708573d6caf0d6](C:\Users\80021625\Documents\WeChat Files\All Users\b93476898aba40da17708573d6caf0d6.jpg)
-
-
-
 | 哈哈 | 哈哈 | 哈哈 |
 | :--: | :--: | :--: |
 | 哈哈 | 哈哈 | 哈哈 |
